@@ -19,7 +19,7 @@ I am Kevin Reaves, a **Full Stack Software Engineer** with an active **Secret Se
 
 I am currently open for remote work! :man_technologist:
 
-## 🛠️ Skills
+### 🛠️ Skills
 
 ### Languages
 
