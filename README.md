@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Kevin Reaves, a **Full Stack Software Engineer** with an active **Secret Security Clearance**. I have a beautiful wife named Katrina :couple: and two dogs named Gon and Romeo :dog2:. When I am not coding I like to spend my free time lifting weights at my home gym :weight_lifting_man:, playing video games with my friends :video_game:, or watching anime :tv:. I have spent the last eight years as a fire fighter 	:axe: :fire_engine: in the United States Marine Corps. I am currently enrolled in :mortar_board: college and pursuing a degree in Computer Science, graduation is to TBD.
+I am Kevin Reaves, a **Full Stack Software Engineer** with an active **Secret Security Clearance**. I have a beautiful wife named Katrina :couple: and two dogs named Gon and Romeo :dog2:. When I am not coding I like to spend my free time lifting weights at my home gym :weight_lifting_man:, playing video games with my friends :video_game:, or watching anime :tv:. I have spent the last eight years as a fire fighter 	:axe: :fire_engine: in the United States Marine Corps. I am currently enrolled in :mortar_board: college and pursuing a degree in Computer Technology, graduation is to TBD.
 
 **I am currently open for remote work! :man_technologist:**
 
