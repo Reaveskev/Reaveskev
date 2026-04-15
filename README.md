@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Kevin Reaves, a **Full Stack Software Engineer** with an active **Secret Security Clearance**. I have a dog named Romeo :dog:. When I am not coding I like to spend my free time lifting weights at my home gym :weight_lifting_man:, playing video games with my friends :video_game:, or watching anime :tv:. I have spent the last eight years as a fire fighter 	:axe: :fire_engine: in the United States Marine Corps. I am currently enrolled in :mortar_board: college and pursuing a degree in Computer Technology, graduation is to TBD.
+I am Kevin Reaves, a **Full Stack Software Engineer** with an active **Secret Security Clearance**. I have a dog named Romeo :dog:. When I am not coding I like to spend my free time lifting weights at my home gym :weight_lifting_man:, playing video games with my friends :video_game:, or watching anime :tv:. I have spent the last eight years as a fire fighter 	:axe: :fire_engine: in the United States Marine Corps. I am currently enrolled in :mortar_board: college and pursuing a my Masters degree in Computer Science, graduation is to TBD.
 
-**I am currently open for remote work! :man_technologist:**
+**I am currently open for Software Engineering opportunities! :man_technologist:**
 
 ### 🛠️ Skills
 
@@ -25,6 +25,8 @@ I am Kevin Reaves, a **Full Stack Software Engineer** with an active **Secret Se
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=C++&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ### Front-End Development
 
